@@ -3,7 +3,7 @@
 ### Hello 👋, I'm Victor Aderibigbe
 
 [![Linkedin Badge](https://img.shields.io/badge/-Victor%20Aderibigbe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/mwlite/in/victor-damola-aderibigbe-27931ab0/)](https://www.linkedin.com/mwlite/in/victor-damola-aderibigbe-27931ab0)
-[![Twitter Badge](https://img.shields.io/badge/-@d2ndjim_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/de_vope)](https://twitter.com/de_vope)
+[![Twitter Badge](https://img.shields.io/badge/-@Victor-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/de_vope)](https://twitter.com/de_vope)
 
 ### About Me
 
@@ -19,7 +19,7 @@ VS Code
 ████████████████████████
 
 💻 Operating System:
-Mac OS
+Windows
 █████████████████████████
 ```
 
@@ -33,11 +33,11 @@ Mac OS
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Javascripts Projects. 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🤔 I’m looking for help with Backend projects
+- 💬 Ask me about algorithm and Artificial Intelligence
+- 📫 How to reach me: twitter.com/de_vope
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I sleep less and I code more. 
