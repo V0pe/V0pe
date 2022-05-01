@@ -2,6 +2,8 @@
 
 ### Hello 👋, I'm Victor Aderibigbe
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=v0pe">
+
 [![Linkedin Badge](https://img.shields.io/badge/-Victor%20Aderibigbe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/mwlite/in/victor-damola-aderibigbe-27931ab0/)](https://www.linkedin.com/mwlite/in/victor-damola-aderibigbe-27931ab0)
 [![Twitter Badge](https://img.shields.io/badge/-@Victor-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/de_vope)](https://twitter.com/de_vope)
 
@@ -11,7 +13,6 @@ I am a full time student at Microverse, learning Full Stack Web Development. I l
 
 ### More about me
 
-<img align='center' src="more.png" width="1000"/>
 
 ```text
     🔥 Editors:
